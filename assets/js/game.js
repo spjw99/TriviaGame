@@ -41,11 +41,11 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
     'q1' : {
         'question' : {
             'str' : 'In "The Little Mermaid," who is NOT one of Triton’s daughter?',
-            'img' : 'assets/img/q1.png'
+            'img' : 'assets/img/q1.PNG'
         },
         'answer' : {
             'str' : ['Adora','Andrina','Attina','Alana'],
-            'img' : 'assets/img/a1.png'
+            'img' : 'assets/img/a1.PNG'
         },
         'explain' : {
             'short' : '"Adora"',
@@ -55,7 +55,7 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
     'q2' : {
         'question' : {
             'str' : 'Which phrase does the Evil Queen in "Snow White" actually say?',
-            'img' : 'assets/img/q2.png'
+            'img' : 'assets/img/q2.PNG'
         },
         'answer' : {
             'str' : [
@@ -64,7 +64,7 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
                 '“Mirror, mirror, on the wall — who is the fairest one of all?”',
                 '“Magic mirror, on the wall — who is the fairest of them all?”'
             ],
-            'img' : 'assets/img/a2.png'
+            'img' : 'assets/img/a2.PNG'
         },
         'explain' : {
             'short' : '“Magic mirror, on the wall — who is the fairest one of all?”',
@@ -74,11 +74,11 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
     'q3' : {
         'question' : {
             'str' : 'In the movie "Tangled," Flynn Rider is wanted dead or alive according to his wanted poster because he\'s a...',
-            'img' : 'assets/img/q3.png'
+            'img' : 'assets/img/q3.PNG'
         },
         'answer' : {
             'str' : ['Thief','Bandit','Treasonist','Robber'],
-            'img' : 'assets/img/a3.png'
+            'img' : 'assets/img/a3.PNG'
         },
         'explain' : {
             'short' : 'He\'s called a "thief"',
@@ -88,11 +88,11 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
     'q4' : {
         'question' : {
             'str' : 'Which glass slipper did Cinderella leave behind at the ball?',
-            'img' : 'assets/img/q4.png'
+            'img' : 'assets/img/q4.PNG'
         },
         'answer' : {
             'str' : ['Left','Right'],
-            'img' : 'assets/img/a4.png'
+            'img' : 'assets/img/a4.PNG'
         },
         'explain' : {
             'short' : 'Her left slipper!',
@@ -102,11 +102,11 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
     'q5' : {
         'question' : {
             'str' : 'In "Sleeping Beauty," what is the name of Maleficent’s pet raven?',
-            'img' : 'assets/img/q5.png'
+            'img' : 'assets/img/q5.PNG'
         },
         'answer' : {
             'str' : ['Diablo','Malum','Mauvais','Diable'],
-            'img' : 'assets/img/a5.png'
+            'img' : 'assets/img/a5.PNG'
         },
         'explain' : {
             'short' : 'His name is "Diablo!"',
@@ -116,7 +116,7 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
     'q6' : {
         'question' : {
             'str' : 'Finish the lyrics: “Wouldn\'t you think I\'m the girl, the girl who has everything? Look at this trove, treasures untold…”',
-            'img' : 'assets/img/q6.png'
+            'img' : 'assets/img/q6.PNG'
         },
         'answer' : {
             'str' : [
@@ -125,7 +125,7 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
                 '"There so much to be known."',
                 '"It’s full of gizmos and gadgets galore."'
             ],
-            'img' : 'assets/img/a6.png'
+            'img' : 'assets/img/a6.PNG'
         },
         'explain' : {
             'short' : '"How many wonders can one cavern hold?"',
@@ -135,7 +135,7 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
     'q7' : {
         'question' : {
             'str' : 'In "Pocahontas," what did Pocahontas see in her dream that made her believe that a change was coming?',
-            'img' : 'assets/img/q7.png'
+            'img' : 'assets/img/q7.PNG'
         },
         'answer' : {
             'str' : [
@@ -144,7 +144,7 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
                 'A hawk circling her village',
                 'A burning blue fire'
             ],
-            'img' : 'assets/img/a7.png'
+            'img' : 'assets/img/a7.PNG'
         },
         'explain' : {
             'short' : 'She dreams of a spinning arrow!',
@@ -154,11 +154,11 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
     'q8' : {
         'question' : {
             'str' : 'In "The Lion King," what side of Scar\'s face is his scar on?',
-            'img' : 'assets/img/q8.png'
+            'img' : 'assets/img/q8.PNG'
         },
         'answer' : {
             'str' : ['Left','Right'],
-            'img' : 'assets/img/a8.png'
+            'img' : 'assets/img/a8.PNG'
         },
         'explain' : {
             'short' : 'His left side!',
@@ -168,11 +168,11 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
     'q9' : {
         'question' : {
             'str' : 'In "Frozen," how many brothers does Hans have?',
-            'img' : 'assets/img/q9.png'
+            'img' : 'assets/img/q9.PNG'
         },
         'answer' : {
             'str' : ['12','7','9','15'],
-            'img' : 'assets/img/a9.png'
+            'img' : 'assets/img/a9.PNG'
         },
         'explain' : {
             'short' : 'He has 12!',
@@ -182,7 +182,7 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
     'q10' : {
         'question' : {
             'str' : 'Finish the lyrics: “My soul is spiraling in frozen fractals all around…”',
-            'img' : 'assets/img/q10.png'
+            'img' : 'assets/img/q10.PNG'
         },
         'answer' : {
             'str' : [
@@ -191,7 +191,7 @@ var questions = {//q(question),a(answer),e(explain),s(short),l(long)
                 '"Somehow I’ve now been given a new chance."',
                 '“And all my problems are far gone in the past.”'
             ],
-            'img' : 'assets/img/a10.png'
+            'img' : 'assets/img/a10.PNG'
         },
         'explain' : {
             'short' : '"And one thought crystallizes like an icy blast.”',
